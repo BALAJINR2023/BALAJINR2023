@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**BALAJINR2023/BALAJINR2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### HI 👋 BALAJINR2023
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning FSD
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+### CODE IN
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+### IDE TOOLS
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <HR>
+### STATS
+![BALAJINR2023's Stats](https://github-readme-stats.vercel.app/api?username=BALAJINR2023&theme=prussian&show_icons=true&hide_border=true&count_private=true)<BR>
+![BALAJINR2023's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALAJINR2023&theme=prussian&hide_border=true)<BR>
+![BALAJINR2023's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJINR2023&theme=prussian&show_icons=true&hide_border=true&layout=compact)<BR><HR>
+### GRAPH
+[![BALAJINR GITHUB GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=BALAJINR2023&bg_color=d1f0ff&color=1d0c10&line=f07828&point=205ed9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
