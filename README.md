@@ -1,4 +1,4 @@
-### HI 👋 BALAJINR2023
+### HI 👋 BALAJINR
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning FSD
