@@ -17,5 +17,3 @@
 ![BALAJINR2023's Stats](https://github-readme-stats.vercel.app/api?username=BALAJINR2023&theme=prussian&show_icons=true&hide_border=true&count_private=true)<BR>
 ![BALAJINR2023's Streak](https://github-readme-streak-stats.herokuapp.com/?user=BALAJINR2023&theme=prussian&hide_border=true)<BR>
 ![BALAJINR2023's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BALAJINR2023&theme=prussian&show_icons=true&hide_border=true&layout=compact)<BR><HR>
-### GRAPH
-[![BALAJINR GITHUB GRAPH](https://github-readme-activity-graph.vercel.app/graph?username=BALAJINR2023&bg_color=d1f0ff&color=1d0c10&line=f07828&point=205ed9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
